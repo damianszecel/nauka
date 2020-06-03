@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*Napisz program, który szyfruje podany przez użytkownika tekst prostym szyfrem
+podstawieniowym zwanym „gaderypoluki”. Nazwa pochodzi od jednego z najczęściej
+używanych kluczy GA-DE-RY-PO-LU-KI.Klucz ten zawiera pary znakowych zamienników
+umieszczonych między myślnikami.Litery, których nie ma w kluczu pozostawia się w
+szyfrowanym tekście bez zmian.Przykładowo tekst „DRZEWO” po zaszyfrowaniu ma postać
+„EYZDWP”.*/
+
+using System;
 using System.Threading;
 
 namespace zad4._15

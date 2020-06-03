@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*Uzupełnij poniższy kod programu o wszystkie dni tygodnia i przy użyciu pętli wyświetl
+zawartość tablicy: w każdym wierszu dany dzień tygodnia w trzech językach (polskim,
+angielskim, niemieckim).*/
+
+using System;
 
 namespace zad4._8
 {

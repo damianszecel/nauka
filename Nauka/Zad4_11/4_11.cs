@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*Napisz program analizujący częstość występowania poszczególnych znaków w
+łańcuchu znaków wprowadzonym przez użytkownika.Np.dla wprowadzonego tekstu
+„abrakadabra” program powinien wyświetlić informacje: a – 5, b – 2, r – 2, k – 1, d – 1.*/
+
+using System;
 
 namespace zad4._11
 {

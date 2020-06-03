@@ -1,4 +1,5 @@
-﻿
+﻿/*Napisz program obliczający liczbę wyrazów w łańcuchu znaków wprowadzonym przez
+użytkownika. Należy przyjąć, że wyrazy to ciągi znaków rozdzielone spacją.*/
 
 using System;
 

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Napisz program, który pozwoli zapełnić n–elementową tablicę jednowymiarową liczb
+całkowitych wartościami podanymi przez użytkownika.Na początku działania programu
+użytkownik podaje liczbę elementów tablicy, a następnie poszczególne wartości jej
+elementów.Po wypełnieniu całej tablicy program powinien wypisać je w oknie konsoli*/
+
+using System;
 
 namespace zad4._1
 {

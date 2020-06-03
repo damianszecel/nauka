@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*Napisać program, który pobierze datę w formacie DD-MM-RRRR, z której pobierze
+miesiąc i wyświetli jego nazwę słownie.*/
+
+using System;
 using System.Security.Cryptography.X509Certificates;
 
 namespace zad4._10

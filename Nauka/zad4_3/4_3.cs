@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Napisz program wyświetlający informacje o wypełnionej przez użytkownika tablicy nelementowej:
+ wartość i numer pozycji największego elementu,
+ wartość i numer pozycji najmniejszego elementu,
+ średnia wartości wszystkich elementów tablicy,
+ liczba dodatnich elementów tablicy.*/
+
+using System;
 using System.Security.Cryptography;
 
 namespace zad4._3

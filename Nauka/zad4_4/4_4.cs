@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*Napisz program, który podaje, ile jest liczb pierwszych w tablicy 100 elementowej typu
+int. Tablicę należy wypełnić losowymi wartościami. Wskazówka: Poniższy fragment
+programu pokazuje działanie klasy Random (która zawiera generator liczb pseudolosowych) –
+w pętli zostanie wyświetlonych 100 liczb wybranych losowo z zakresu 1 – 999 (o zakresie
+decydują argumenty podane w wywołaniu metody Next()43).*/
+
+using System;
 
 namespace zad4._4
 {
