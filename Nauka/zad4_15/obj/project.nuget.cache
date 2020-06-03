@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pD4WEL8TrB3i//kwW/eN/PETwP1thhlfJAWZ5wDvqL07ELNy3psm4bsI5fGd7uIbPPdi/NbmpAk4K0LPcy2XIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damia\\Desktop\\C#\\Repozytorium1\\nauka\\Nauka\\zad4_15\\zad4_15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

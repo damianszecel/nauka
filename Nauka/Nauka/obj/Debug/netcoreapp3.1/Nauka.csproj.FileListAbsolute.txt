@@ -1,0 +1,4 @@
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\Nauka\obj\Debug\netcoreapp3.1\Nauka.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\Nauka\obj\Debug\netcoreapp3.1\Nauka.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\Nauka\obj\Debug\netcoreapp3.1\Nauka.AssemblyInfo.cs
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\Nauka\obj\Debug\netcoreapp3.1\Nauka.csproj.CoreCompileInputs.cache

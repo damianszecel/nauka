@@ -1,0 +1,13 @@
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.exe
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.deps.json
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.runtimeconfig.json
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.runtimeconfig.dev.json
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.dll
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\bin\Debug\netcoreapp3.1\zad4_15.pdb
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.AssemblyInfo.cs
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.dll
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.pdb
+C:\Users\damia\Desktop\C#\Repozytorium1\nauka\Nauka\zad4_15\obj\Debug\netcoreapp3.1\zad4_15.genruntimeconfig.cache
