@@ -24,7 +24,16 @@ namespace zad4._9
                     start = pozycja + 1;
                 }
             }
+
+
+
             Console.WriteLine("Liczba wyrazow we wprowadzonym tekscie wynosi {0}", n);
+
+            //taki trik
+            string[] splittedText = tekst.Split(' ');
+            Console.WriteLine();
+            Console.WriteLine($"Liczba wyrazow we wprowadzonym tekscie wynosi {splittedText.Length}");
+
             Console.WriteLine("Jezeli chcesz wprowadzic inny ciag wyrazow nacisnij spacje i zatwierdz enterem");
             string a = Console.ReadLine();
             if (a == " ")

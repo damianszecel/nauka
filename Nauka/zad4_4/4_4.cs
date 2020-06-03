@@ -25,6 +25,9 @@ namespace zad4._4
             for (int i = 0; i < tab.Length; i++)
             {
                 bool x = true;
+                // to oczywiscie zadziala poprawnie, ale tak naprawde robisz bardzo duzo niepotrzebnych operacji -  z tego co pamietam to dla liczby X wystarczy sprawdzic czy jest podzielna przez liczby
+                // zaczynając od 2 i kończąc na pierwiastku z X
+                // w 90% systemach nie ma to znaczenia bo teraz komputery są mega szybkie, ale na rozmowie miałbyś minusa :D
                 for (int j = 2; j < tab[i]; j++)
                 {
                     if (tab[i] % j == 0)
